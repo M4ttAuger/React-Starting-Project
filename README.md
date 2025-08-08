@@ -22,11 +22,15 @@ Questo progetto è stato creato per esercitarmi con i concetti fondamentali di R
    ```bash
    git clone https://github.com/M4ttAuger/React-Starting-Project
    ```
-2. Entra nella cartella ed installa le dipendenze:
+2. Entra nella cartella
    ```bash
    cd React-Starting-Project
-   npm install
      ```
+   
+3. Installa le dipendenze:
+   ```bash
+   npm install
+   ```
   
 3. Avvia il progetto:
    ```bash
